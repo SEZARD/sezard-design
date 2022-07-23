@@ -26768,13 +26768,13 @@ textarea {
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .page-title .title {
-    font-size: 100px;
-  line-height: 100px; } }
+    font-size: 80px;
+  line-height: 80px; } }
 
 @media only screen and (max-width: 767px) {
   .page-title .title {
-    font-size: 90px;
-  line-height: 90px; } }
+    font-size: 75px;
+  line-height: 75px; } }
 
 .page-breadcrumb {
   position: absolute;
@@ -28782,7 +28782,8 @@ textarea {
         margin-right: 30px;
         margin-bottom: 0px; } }
     .contact-info .icon svg {
-      width: 50px; }
+      width: 50px; 
+      margin-right: 30px;}
       .contact-info .icon svg path {
         stroke: #8000FF; }
   .contact-info .info .title {
