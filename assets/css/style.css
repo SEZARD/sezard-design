@@ -1,9 +1,7 @@
 /*-----------------------------------------------------------------------------------
 
     ===================
-	
-    01. Template default CSS
-    02. Template Spacing CSS
+
     03. Plugin Custom CSS (Custom style to override plugin default style)
         03.01. AOS Animation
     04. Elements CSS
@@ -28769,7 +28767,7 @@ textarea {
       .contact-info.info-light .info .info-text strong {
         color: #fff; }
   .contact-info .icon {
-    margin-right: 40px; }
+    margin-right: 20px; }
     @media only screen and (min-width: 992px) and (max-width: 1199px) {
       .contact-info .icon {
         margin-right: 20px; } }
